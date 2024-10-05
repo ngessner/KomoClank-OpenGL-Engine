@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="KomoClank-OpenGL-Engine.cpp">
+    <ClCompile Include="src\temp\KomoClank-OpenGL-Engine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

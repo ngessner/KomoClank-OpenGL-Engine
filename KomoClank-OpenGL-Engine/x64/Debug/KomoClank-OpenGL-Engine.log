@@ -1,0 +1,4 @@
+﻿  KomoClank-OpenGL-Engine.cpp
+  LINK : .\KomoClank-OpenGL-Engine.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  KomoClank-OpenGL-Engine.vcxproj -> C:\Users\ngess\OneDrive\Desktop\KomoClank-OpenGL-Engine\KomoClank-OpenGL-Engine\KomoClank-OpenGL-Engine.exe

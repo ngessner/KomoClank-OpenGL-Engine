@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ngess\\OneDrive\\Desktop\\KomoClank-OpenGL-Engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AAC87B4-E3B4-4446-8165-0F1F0FE55B78}|KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.vcxproj|C:\\Users\\ngess\\OneDrive\\Desktop\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5AAC87B4-E3B4-4446-8165-0F1F0FE55B78}|KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.vcxproj|solutionrelative:KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5AAC87B4-E3B4-4446-8165-0F1F0FE55B78}|KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.vcxproj|C:\\Users\\ngess\\OneDrive\\Desktop\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine\\src\\temp\\KomoClank-OpenGL-Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AAC87B4-E3B4-4446-8165-0F1F0FE55B78}|KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.vcxproj|solutionrelative:KomoClank-OpenGL-Engine\\src\\temp\\KomoClank-OpenGL-Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "KomoClank-OpenGL-Engine.cpp",
-              "DocumentMoniker": "C:\\Users\\ngess\\OneDrive\\Desktop\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.cpp",
-              "RelativeDocumentMoniker": "KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.cpp",
-              "ToolTip": "C:\\Users\\ngess\\OneDrive\\Desktop\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.cpp",
-              "RelativeToolTip": "KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ngess\\OneDrive\\Desktop\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine\\src\\temp\\KomoClank-OpenGL-Engine.cpp",
+              "RelativeDocumentMoniker": "KomoClank-OpenGL-Engine\\src\\temp\\KomoClank-OpenGL-Engine.cpp",
+              "ToolTip": "C:\\Users\\ngess\\OneDrive\\Desktop\\KomoClank-OpenGL-Engine\\KomoClank-OpenGL-Engine\\src\\temp\\KomoClank-OpenGL-Engine.cpp",
+              "RelativeToolTip": "KomoClank-OpenGL-Engine\\src\\temp\\KomoClank-OpenGL-Engine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-05T04:08:44.761Z",
               "EditorCaption": ""
